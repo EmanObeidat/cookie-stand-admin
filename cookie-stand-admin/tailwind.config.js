@@ -21,7 +21,7 @@ module.exports = {
         '200px':'200px',
       },
       fontSize: {
-        '20px': '20px', // You can adjust the actual pixel value here
+        '20px': '20px', 
       },
     },
   },
